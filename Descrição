@@ -1,2 +1,9 @@
 # CANCELA-SENSOR-PIR
 Cancela que é acionada com sencor PIR, e com LED´s indicadores.
+Quando está travada , o LED vermelho fica aceso, quando a cancela é aciona , o LED vermelho apaga e o LED verde acende .
+O LED verde fica aceso até que a cancela volta, e , novamente oLED vermelho torna acender e o LED verde ,consequentemente, apaga.
+
+
+
+ESSE PROJETO É APENAS PARA UMA INICIALIZAÇÃO, LOGO , SUA INSTALAÇÃO EM UM ESTACIONAMENTO  NÃO SERIA APROVADO, POR MAIS QUE SEJA UM ESTACIONAMENTO GRATUITO.
+Origado pela visita.
